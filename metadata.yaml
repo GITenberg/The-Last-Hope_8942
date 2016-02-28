@@ -1,0 +1,30 @@
+_repo: The-Last-Hope_8942
+creator:
+  author:
+    agent_name: Merriman, Henry Seton
+    aliases:
+    - Merriman, H. Seton (Henry Seton)
+    - Scott, Hugh Stowell
+    birthdate: 1862
+    deathdate: 1903
+    gutenberg_agent_id: '1312'
+    url: http://www.gutenberg.org/2009/agents/1312
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Stowell_Scott
+description: River Andrew combined the light duties of gravedigger and clerk to the
+  parish Farlingford in Suffolk with a small but steady business in fish of his own
+  drying, nets of his own netting, and pork slain and dressed by his own weather-beaten
+  hands.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Royalists -- France -- Fiction'
+title: The Last Hope
+url: http://www.gutenberg.org/ebooks/8942
