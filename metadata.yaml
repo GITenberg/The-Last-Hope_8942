@@ -1,4 +1,8 @@
 _repo: The-Last-Hope_8942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Merriman, Henry Seton
@@ -14,6 +18,8 @@ description: River Andrew combined the light duties of gravedigger and clerk to 
   parish Farlingford in Suffolk with a small but steady business in fish of his own
   drying, nets of his own netting, and pork slain and dressed by his own weather-beaten
   hands.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8942#The-Last-Hope
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
